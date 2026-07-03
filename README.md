@@ -36,8 +36,8 @@ A simple responsive web page built using **HTML5** and **CSS3** to demonstrate t
 - Creating responsive web layouts
 - Using Flexbox for alignment
 - Building mobile-friendly webpages
-  
----
+
+  ---
 
 ## 🤝 Connect With Me
  💼 LinkedIn : [Mohamed Kasim](https://www.linkedin.com/in/mohamedkasim-m/)
